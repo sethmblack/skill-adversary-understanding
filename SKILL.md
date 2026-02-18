@@ -3,8 +3,9 @@ name: adversary-understanding
 description: Systematically understand an adversary's perspective, fears, history, and interests to find paths to agreement or advantage.
 license: MIT
 metadata:
+  version: 1.0.3345
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - adversary-understanding-protocol
 - storytelling
